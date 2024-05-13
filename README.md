@@ -1,8 +1,10 @@
 ### I am a research and development engineer, and I enjoy developing interesting apps or websites 🤣
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaterTotX&theme=aura&show_icons=true)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=TaterTotX" height="160" alt="stats graph"  />
+  &nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=aura&hide_border=false&username=TaterTotX" height="160" alt="languages graph"  />
+</div>
 
 <!--
 **TaterTotX/TaterTotX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
