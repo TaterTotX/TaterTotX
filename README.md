@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a research and development engineer, and I enjoy developing interesting apps or websites 🤣
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaterTotX&theme=aura&show_icons=true)
 
