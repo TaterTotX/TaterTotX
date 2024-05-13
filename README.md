@@ -1,4 +1,4 @@
-### I am a research and development engineer, and I enjoy developing interesting apps or websites 🤣
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=TaterTotX" height="160" alt="stats graph"  />
